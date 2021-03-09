@@ -16,6 +16,7 @@
     <Copyright>Copyright © 2018</Copyright>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Sergey-Terekhin/libjpeg-turbo-net</PackageProjectUrl>
+    <PackageId>libjpeg-turbo-net40</PackageId>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
